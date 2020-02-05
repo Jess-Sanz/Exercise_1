@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 
 <head>
 		<meta charset=“utf-8”>
 		<title>Flynn's Retro Computers</title>
 <!--The title is the txt on top the window or tab -->
-</head> 
+</head>-->
 
 <body>
 <h1>Flynn's Retro Computers</h1>

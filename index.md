@@ -12,11 +12,11 @@
 
 <p>Welcome to <strong>Flynn's Retro Computers</strong>, a web shop dedicated to <em>old-school</em> minicomputers from the 1970s and 1980s. We've got the most complete catalog anywhere on the Internet!</p>
 
-<h5>[Navigation]</h5>
-<h5><a href="index.html">Home</a></h5>
-<h5><a href="apple-ii(2).html">Apple II</a></h5>
-<h5><a href="Commodore-64.html">Commodore 64</a></h5>
-<h5><a href="TRS-80.html">TRS 80</a></h5>
+<h5>Navigation</h5>
+<h5><a href="index.md">Home</a></h5>
+<h5><a href="apple-ii(2).md">Apple II</a></h5>
+<h5><a href="Commodore-64.md">Commodore 64</a></h5>
+<h5><a href="TRS-80.md">TRS 80</a></h5>
 <!--remember to add link tags to the navigation -->
 
 <h2>Our Products</h2>

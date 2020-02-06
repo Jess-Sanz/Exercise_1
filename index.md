@@ -15,7 +15,7 @@
 <h5>Navigation</h5>
 <h5><a href="index.md">Home</a></h5>
 <h5><a href="apple-ii(2).md">Apple II</a></h5>
-<h5><a href="Commodore-64.md">Commodore 64</a></h5>
+<h5><a href="commodore-64.md">Commodore 64</a></h5>
 <h5><a href="TRS-80.md">TRS 80</a></h5>
 <!--remember to add link tags to the navigation -->
 

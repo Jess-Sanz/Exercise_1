@@ -11,7 +11,7 @@
 <h4>Flynn's Retro Computers</h4>
 <h1>Apple II</h1>
 
-<h5>[Navigation]</h5>
+<h5>Navigation</h5>
 <h5><a href="index.md">Home</a></h5>
 <h5>Apple II</h5>
 <h5><a href="Commodore-64.md">Commodore 64</a></h5>

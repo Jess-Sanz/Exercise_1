@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,10 +12,10 @@
 <h1>Apple II</h1>
 
 <h5>[Navigation]</h5>
-<h5><a href="index.html">Home</a></h5>
+<h5><a href="index.md">Home</a></h5>
 <h5>Apple II</h5>
-<h5><a href="Commodore-64.html">Commodore 64</a></h5>
-<h5><a href="TRS-80.html">TRS 80</a></h5>
+<h5><a href="Commodore-64.md">Commodore 64</a></h5>
+<h5><a href="TRS-80.md">TRS 80</a></h5>
 <!--remember to add link tags to the navigation -->
 
 <img src="apple-ii.jpg" alt="Apple II">
